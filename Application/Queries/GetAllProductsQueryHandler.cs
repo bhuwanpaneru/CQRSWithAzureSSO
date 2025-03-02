@@ -1,5 +1,5 @@
-﻿using CQRSWithAzureSSO.Application.Queries;
-using CQRSWithAzureSSO.Domain;
+﻿using CQRSWithAzureSSO.Application.Dto;
+using CQRSWithAzureSSO.Application.Queries;
 using CQRSWithAzureSSO.Persistence;
 using MediatR;
 

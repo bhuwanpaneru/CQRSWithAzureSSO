@@ -1,5 +1,5 @@
-﻿using CQRSWithAzureSSO.Application.Handlers;
-using CQRSWithAzureSSO.Domain;
+﻿using CQRSWithAzureSSO.Application.Dto;
+using CQRSWithAzureSSO.Application.Handlers;
 using MediatR;
 
 namespace CQRSWithAzureSSO.Application.Queries

@@ -1,7 +1,7 @@
 ﻿using CQRSWithAzureSSO.Application.Commands;
+using CQRSWithAzureSSO.Application.Dto;
 using CQRSWithAzureSSO.Application.Handlers;
 using CQRSWithAzureSSO.Application.Queries;
-using CQRSWithAzureSSO.Domain;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

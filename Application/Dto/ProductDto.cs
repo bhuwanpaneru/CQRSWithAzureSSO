@@ -1,4 +1,4 @@
-﻿namespace CQRSWithAzureSSO.Domain
+﻿namespace CQRSWithAzureSSO.Application.Dto
 {
     public class ProductDto
     {
